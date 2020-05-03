@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string_view": "cpp",
+        "ratio": "cpp"
+    }
+}
