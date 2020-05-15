@@ -1,6 +1,5 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
-
 
 bool test(int N, int K, int P[], int D){
     int n=0;
