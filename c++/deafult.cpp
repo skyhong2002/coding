@@ -2,9 +2,7 @@
 //Created by skyhong2002
 
 //#pragma GCC optimise("O3", "unroll-loops")
-#include <iostream>
-#include <algorithm>
-#include <vector>
+#include<bits/stdc++.h>
 
 #define ll long long
 #define pb(a) push_back(a)
